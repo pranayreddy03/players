@@ -1,0 +1,59 @@
+body
+{
+	background-color: #eee;
+	padding: 0;
+	margin:0; 
+    font-family: 'Raleway', sans-serif !important ;
+    font-size: 48px;
+}
+#names
+{
+	position: absolute;
+    top: 15%;
+    left: 16%;
+}
+#main
+{
+	position: absolute;
+	top: 27%;
+	left: 16%;
+	height: 65%;
+	width: 71%;
+}
+#photoContainer
+{
+	position: absolute;
+	top: 5%;
+	left: 5%;
+	height: 47.5%;
+	width: 16.5%;
+}
+#playerImage
+{
+	height: 100%;
+	width: 100%;
+}
+#detailsContainer
+{
+	position: absolute;	
+	top: 55%;
+	left: 5%;
+	height: 40%;
+	width: 25%;
+}
+#profileContainer
+{
+    position: absolute;	
+	top: 5%;
+	left: 35%;
+	height: 45%;
+	width: 55%;
+}
+#statsContainer
+{
+    position: absolute;
+	top: 55%;
+	left: 35%;
+	height: 40%;
+	width: 50%;
+}

@@ -1,0 +1,55 @@
+[
+		{	"photo":"images/virat.jpg",
+    	"description":"A typical modern-day cricketer, Virat Kohli plays his game aggressively, bares his emotions loudly in public, yet retains the element of maturity that forms an integral part of every good and great player. Kohli's fantastic fielding, and the ability to assess situations and seize the moment, makes him one of the most exciting talents in the international circuit.",
+    	"basics":{"name":"Virat Kohli","nationality":"Indian","age":"28","role":"middle-order batsman","teams":"India, Delhi, Royal Challengers Banglore"},
+    	"stats":{"games":"202","runs":"9030","centuries":"32","halfcenturies":"45","highscore":"183","average":"55.74"}
+	},
+	{
+		"photo":"images/abd.jpg",
+    	"description":"A batsman of breathtaking chutzpah and enterprise. A cricketer with overflowing talent and the temperament to back it up. A fielder able to leap tall buildings and still come up with the catch - and who will happily move behind the stumps into the wicketkeeper's spot if needed. A fine rugby player, golfer, and tennis player. AB de Villiers has emerged as one of South Africa's greats.",
+    	"basics":{"name":"Abraham Benjamin de Villiers","nationality":"South African","age":"33","role":"Wicketkeeper batsman","teams":"South Africa, Northerns, Royal Challengers Banglore"},
+    	"stats":{"games":"225","runs":"9515","centuries":"25","halfcenturies":"53","highscore":"176","average":"54.06"}
+	},
+	{
+		"photo":"images/warner.jpg",
+    	"description":"David Warner is a hard man to keep quiet. If his bat isn't doing the talking his mouth probably is, and either way you can expect an assertive approach. One of the most destructive hitters in world cricket, Warner opens for Australia in all three formats and in 2015 his seniority was recognised when he was named vice-captain to Steven Smith in the Test and ODI sides. It was quite a turnaround for the man who two years earlier had been suspended by Cricket Australia for punching England's Joe Root in a bar-room altercation in Birmingham, and had also been warned over a Twitter spat with a pair of journalists. It also completed a remarkable rise for a man who burst on to the international scene in 2008-09 as a Twenty20 specialist.",
+    	"basics":{"name":"David Warner","nationality":"Australian","age":"31","role":"Opening batsman","teams":"Australia, New South Wales, Sunrisers Hyderabad"},
+    	"stats":{"games":"101","runs":"4270","centuries":"14","halfcenturies":"17","highscore":"179","average":"44.94"}
+	},
+	{
+		"photo":"images/gayle.jpg",
+    	"description":"A thrusting Jamaican left-hander, Gayle earned himself a black mark on his first senior tour - to England in 2000 - where the new boys were felt to be insufficiently respectful of their elders. But a lack of respect, for opposition bowlers at least, has served Gayle well since then. Tall and imposing at the crease, he loves to carve through the covers off either foot, and has the ability to decimate the figures of even the thriftiest of opening bowlers. And in this era of Twenty20 cricket, Gayle is the batsman who has thrived like no other.",
+    	"basics":{"name":"Christopher Henry Gayle","nationality":"West Indian","age":"38","role":"Allrounder","teams":"West Indies, Melbourne Renegades, Royal Challengers Banglore"},
+    	"stats":{"games":"273","runs":"9394","centuries":"22","halfcenturies":"48","highscore":"215","average":"37.42"}
+	},
+	{
+		"photo":"images/rohit.jpg",
+    	"description":"Rohit Sharma oozes batting talent: malleable wrists, knack to find the gaps, and the extra half a second when he plays his shots. However, for a player of his class, the first six years of his international career were frustrating for him, the team, and the spectators, as the odd delightful innings was followed and preceded by plenty of failures. It all came together finally in 2013, when Rohit was promoted to open the innings in ODIs. The move turned out to be a masterstroke, as Rohit found form in the Champions Trophy, and then went into overdrive in the ODI series against Australia, scoring two centuries, including 209, only the third double in ODI cricket. That led to a place in the Test team, and Rohit responded by scoring centuries in his first two Test innings, becoming the fifth batsman to do so.",
+    	"basics":{"name":"Rohit Gurunath Sharma","nationality":"Indian","age":"30","role":"Middle-order batsman","teams":"India, Mumbai Indians"},
+    	"stats":{"games":"171","runs":"6207","centuries":"15","halfcenturies":"34","highscore":"264","average":"44.33"}
+	},
+	{
+		"photo":"images/brendon.jpg",
+    	"description":"Brash, brutal and brilliant to watch, Brendon McCullum can bruise bowling attacks like few other men in international cricket. A wicketkeeper-batsman, McCullum has been used throughout the New Zealand batting order, but whenever he arrives at the crease it's impossible to look away. He muscles balls over both sides of the field and was responsible for getting the IPL off to an electrifying start, lighting up the tournament's first match with 158 and showing what the format had to offer. And he reprised that style in Tests too - striking the fastest century in the format's history in his final match.",
+    	"basics":{"name":"Brendon McCullum","nationality":"New Zealander","age":"36","role":"Wicketkeeper batsman","teams":"New Zealand, Gujarat Lions, Brisbane Heat"},
+    	"stats":{"games":"260","runs":"6083","centuries":"5","halfcenturies":"32","highscore":"166","average":"30.41"}
+	},
+	{
+		"photo":"images/joe.jpg",
+    	"description":"That Joe Root would one day captain England was taken as read when he hit the grand old age of 23. The accolade everybody anticipated became his three years later after Alastair Cook stood down after a heavy defeat in India with the familiar exhausted look of a Test captain who felt he could do no more. It was understandable that there were a few fears for Root's future workload. He was rare among England batsmen in achieving maturity so quickly, and had looked consumed by the delights of batting from the moment he first took guard. Now he had new responsibilities ahead.",
+    	"basics":{"name":"Joseph Edward Root","nationality":"English","age":"26","role":"Top-order batsman","teams":"England, Yorkshire"},
+    	"stats":{"games":"97","runs":"4000","centuries":"10","halfcenturies":"24","highscore":"133","average":"50.00"}
+	},
+	{
+		"photo":"images/kane.jpg",
+    	"description":"By the time Kane Williamson is finished with playing cricket, it is probable that he will be New Zealand's greatest batsman. Even Martin Crowe endorsed that view. Williamson is ambidextrous, bats right-handed in the top order across formats, and has become a pillar of the New Zealand side since he made his debut in 2010.",
+    	"basics":{"name":"Kane Stuart Williamson","nationality":"New Zealander","age":"27","role":"Top-order batsman","teams":"New Zealand, Northern Districts, Sunrisers Hyderabad"},
+    	"stats":{"games":"117","runs":"4678","centuries":"9","halfcenturies":"32","highscore":"145","average":"46.31"}
+	},
+	{
+		"photo":"images/rahul.jpg",
+    	"description":"Rahul Dravid was probably one of the last classical Test match batsmen. His progress into the national side may have been steady and methodical rather than meteoric, but once there, Dravid established himself at the vanguard of a new, defiant generation that were no longer easybeats away from home. Armed with an orthodox technique drilled into him by Keki Tarapore, he became the cement that held the foundations firm while the flair players expressed themselves. Yet, for a man quickly stereotyped as one-paced and one-dimensional, he too could stroke the ball around when the mood struck him.",
+    	"basics":{"name":"Rahul Sharad Dravid","nationality":"Indian","age":"44","role":"Top-order batsman","teams":"India, Scotland, Kent, Rajasthan Royals"},
+    	"stats":{"games":"344","runs":"10889","centuries":"12","halfcenturies":"83","highscore":"153","average":"39.16"}
+	}
+]
